@@ -1,0 +1,29 @@
+functionalities of the dawa application
+ user registration
+ login and log out
+ index page
+ stock updating
+ sales report
+ stock listing> category, products 
+ receipts
+
+
+'''
+ modeling an object called products
+  product belongs to a category
+ 2. Product name
+ 3. The total Quatity received
+ 4. Batch Number
+ 5. Issuied Quatity(sold sofar) and Quatity received
+ 6. Unit Price
+ '''
+
+ '''
+ modeling Sale
+ sale belongs to a product and can also belong to a category
+ 1. Item old
+ 2. Quatity sold
+ 3. Issuied to/ buyer
+ 4. Unit Price
+ 5. Ammount received
+ '''
